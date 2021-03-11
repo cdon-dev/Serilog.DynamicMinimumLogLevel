@@ -35,5 +35,5 @@ jobs:
         # NuGet package id, used for version detection & defaults to project name
         PACKAGE_NAME: CDON.Serilog.DynamicMinimumLogLevel
         # API key to authenticate with NuGet server
-        NUGET_KEY: ${{NUGETAPIKEY}}
+        NUGET_KEY: ${{secrets.NUGETAPIKEY}}
         # NuGet server uri hosting the packages, defaults to https://api.nuget.org
