@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.DynamicMinimumLogLevel", "Serilog.DynamicMinimumLogLevel\Serilog.DynamicMinimumLogLevel.csproj", "{6F4DAB3F-2716-4D10-98D1-24EA2CDB51D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.DynamicMinimumLogLevel.Tests", "Serilog.DynamicMinimumLogLevel.Tests\Serilog.DynamicMinimumLogLevel.Tests.csproj", "{31F6B435-F9C9-4674-943E-1AAC44DCC1A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4DAB3F-2716-4D10-98D1-24EA2CDB51D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4DAB3F-2716-4D10-98D1-24EA2CDB51D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4DAB3F-2716-4D10-98D1-24EA2CDB51D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4DAB3F-2716-4D10-98D1-24EA2CDB51D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F6B435-F9C9-4674-943E-1AAC44DCC1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F6B435-F9C9-4674-943E-1AAC44DCC1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F6B435-F9C9-4674-943E-1AAC44DCC1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F6B435-F9C9-4674-943E-1AAC44DCC1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8E4233A-2973-4774-BE0B-F05BF9B9600A}
+	EndGlobalSection
+EndGlobal
