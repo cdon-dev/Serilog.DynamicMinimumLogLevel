@@ -37,4 +37,3 @@ jobs:
         # API key to authenticate with NuGet server
         NUGET_KEY: oy2l4qjwrzaysx5a622aqjobf72bx25e7n44zis2uzor4u
         # NuGet server uri hosting the packages, defaults to https://api.nuget.org
-    INCLUDE_SYMBOLS: # optional
